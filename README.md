@@ -14,5 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ayush-7355/DSA_Daily/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush-7355/DSA_Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## String
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ayush-7355/DSA_Daily/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->
