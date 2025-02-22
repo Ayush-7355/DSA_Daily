@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ayush-7355/DSA_Daily/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush-7355/DSA_Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
