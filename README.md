@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush-7355/DSA_Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush-7355/DSA_Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
