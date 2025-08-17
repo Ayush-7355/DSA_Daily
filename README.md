@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2551-apply-operations-to-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/Ayush-7355/DSA_Daily/tree/master/3194-find-words-containing-character) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush-7355/DSA_Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3194-find-words-containing-character](https://github.com/Ayush-7355/DSA_Daily/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Ayush-7355/DSA_Daily/tree/master/3379-score-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ayush-7355/DSA_Daily/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Bit Manipulation
