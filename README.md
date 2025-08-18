@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-7355/DSA_Daily/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayush-7355/DSA_Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayush-7355/DSA_Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2551-apply-operations-to-an-array) |
