@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-7355/DSA_Daily/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/Ayush-7355/DSA_Daily/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Ayush-7355/DSA_Daily/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayush-7355/DSA_Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2551-apply-operations-to-an-array) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Ayush-7355/DSA_Daily/tree/master/3226-minimum-number-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Ayush-7355/DSA_Daily/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
