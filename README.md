@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ayush-7355/DSA_Daily/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Ayush-7355/DSA_Daily/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ayush-7355/DSA_Daily/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayush-7355/DSA_Daily/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Ayush-7355/DSA_Daily/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Ayush-7355/DSA_Daily/tree/master/3226-minimum-number-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Ayush-7355/DSA_Daily/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayush-7355/DSA_Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Ayush-7355/DSA_Daily/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayush-7355/DSA_Daily/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ayush-7355/DSA_Daily/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Ayush-7355/DSA_Daily/tree/master/3379-score-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ayush-7355/DSA_Daily/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
