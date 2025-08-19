@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2551-apply-operations-to-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ayush-7355/DSA_Daily/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2714-left-and-right-sum-differences](https://github.com/Ayush-7355/DSA_Daily/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ayush-7355/DSA_Daily/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Ayush-7355/DSA_Daily/tree/master/3194-find-words-containing-character) |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-7355/DSA_Daily/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/Ayush-7355/DSA_Daily/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
