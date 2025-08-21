@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ayush-7355/DSA_Daily/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Ayush-7355/DSA_Daily/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Ayush-7355/DSA_Daily/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ayush-7355/DSA_Daily/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ayush-7355/DSA_Daily/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayush-7355/DSA_Daily/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-7355/DSA_Daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Ayush-7355/DSA_Daily/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
