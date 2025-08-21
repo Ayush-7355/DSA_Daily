@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Ayush-7355/DSA_Daily/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-7355/DSA_Daily/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Ayush-7355/DSA_Daily/tree/master/1944-truncate-sentence) |
+| [2048-build-array-from-permutation](https://github.com/Ayush-7355/DSA_Daily/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayush-7355/DSA_Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ayush-7355/DSA_Daily/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
+| [2048-build-array-from-permutation](https://github.com/Ayush-7355/DSA_Daily/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayush-7355/DSA_Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayush-7355/DSA_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
