@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayush-7355/DSA_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-7355/DSA_Daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ayush-7355/DSA_Daily/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Design
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/Ayush-7355/DSA_Daily/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ayush-7355/DSA_Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Ayush-7355/DSA_Daily/tree/master/2844-sum-of-squares-of-special-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
