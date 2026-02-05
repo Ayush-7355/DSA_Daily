@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ayush-7355/DSA_Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -193,5 +194,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0120-triangle) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
