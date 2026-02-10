@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ayush-7355/DSA_Daily/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Ayush-7355/DSA_Daily/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush-7355/DSA_Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Ayush-7355/DSA_Daily/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Ayush-7355/DSA_Daily/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Ayush-7355/DSA_Daily/tree/master/2714-left-and-right-sum-differences) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,8 +229,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
