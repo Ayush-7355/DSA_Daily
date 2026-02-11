@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush-7355/DSA_Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Ayush-7355/DSA_Daily/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Ayush-7355/DSA_Daily/tree/master/2714-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -238,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
