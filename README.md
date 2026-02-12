@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
+| [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-7355/DSA_Daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/1580-shuffle-the-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0782-jewels-and-stones](https://github.com/Ayush-7355/DSA_Daily/tree/master/0782-jewels-and-stones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ayush-7355/DSA_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-7355/DSA_Daily/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ayush-7355/DSA_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Combinatorics
 |  |
