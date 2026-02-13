@@ -228,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0110-balanced-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0110-balanced-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayush-7355/DSA_Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/3721-longest-balanced-subarray-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
