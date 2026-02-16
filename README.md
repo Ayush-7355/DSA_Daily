@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ayush-7355/DSA_Daily/tree/master/0814-binary-tree-pruning) |
+| [0965-univalued-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ayush-7355/DSA_Daily/tree/master/0814-binary-tree-pruning) |
+| [0965-univalued-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ayush-7355/DSA_Daily/tree/master/0814-binary-tree-pruning) |
+| [0965-univalued-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
