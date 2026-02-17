@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ayush-7355/DSA_Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0968-binary-tree-cameras](https://github.com/Ayush-7355/DSA_Daily/tree/master/0968-binary-tree-cameras) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0113-path-sum-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0113-path-sum-ii) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayush-7355/DSA_Daily/tree/master/0450-delete-node-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
