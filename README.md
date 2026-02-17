@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Ayush-7355/DSA_Daily/tree/master/0450-delete-node-in-a-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ayush-7355/DSA_Daily/tree/master/0814-binary-tree-pruning) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Ayush-7355/DSA_Daily/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ayush-7355/DSA_Daily/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0965-univalued-binary-tree) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Ayush-7355/DSA_Daily/tree/master/0450-delete-node-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
