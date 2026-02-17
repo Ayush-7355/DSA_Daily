@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/0136-single-number) |
+| [0401-binary-watch](https://github.com/Ayush-7355/DSA_Daily/tree/master/0401-binary-watch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
@@ -283,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/Ayush-7355/DSA_Daily/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
