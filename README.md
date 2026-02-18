@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/Ayush-7355/DSA_Daily/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ayush-7355/DSA_Daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
