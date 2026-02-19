@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Ayush-7355/DSA_Daily/tree/master/2048-build-array-from-permutation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Ayush-7355/DSA_Daily/tree/master/0782-jewels-and-stones) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/Ayush-7355/DSA_Daily/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ayush-7355/DSA_Daily/tree/master/0693-binary-number-with-alternating-bits) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/1693-sum-of-all-odd-length-subarrays) |
