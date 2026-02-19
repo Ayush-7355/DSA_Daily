@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Ayush-7355/DSA_Daily/tree/master/0782-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-7355/DSA_Daily/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ayush-7355/DSA_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayush-7355/DSA_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-7355/DSA_Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/2481-strictly-palindromic-number) |
