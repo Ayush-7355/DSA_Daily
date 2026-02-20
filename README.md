@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
+| [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayush-7355/DSA_Daily/tree/master/0983-minimum-cost-for-tickets) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-7355/DSA_Daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Ayush-7355/DSA_Daily/tree/master/0782-jewels-and-stones) |
+| [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Ayush-7355/DSA_Daily/tree/master/2502-sort-the-people) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-7355/DSA_Daily/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ayush-7355/DSA_Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ayush-7355/DSA_Daily/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ayush-7355/DSA_Daily/tree/master/0814-binary-tree-pruning) |
+| [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 | [0965-univalued-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Ayush-7355/DSA_Daily/tree/master/0968-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/1382-balance-a-binary-search-tree) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ayush-7355/DSA_Daily/tree/master/0207-course-schedule) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 | [0965-univalued-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
@@ -323,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ayush-7355/DSA_Daily/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
