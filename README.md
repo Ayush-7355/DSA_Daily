@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0209-minimum-size-subarray-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayush-7355/DSA_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ayush-7355/DSA_Daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
