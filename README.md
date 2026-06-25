@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayush-7355/DSA_Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-7355/DSA_Daily/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-7355/DSA_Daily/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-7355/DSA_Daily/tree/master/1833-find-the-highest-altitude) |
