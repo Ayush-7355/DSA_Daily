@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Ayush-7355/DSA_Daily/tree/master/0901-online-stock-span) |
 | [1708-design-parking-system](https://github.com/Ayush-7355/DSA_Daily/tree/master/1708-design-parking-system) |
 ## Counting
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Ayush-7355/DSA_Daily/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Ayush-7355/DSA_Daily/tree/master/0901-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-7355/DSA_Daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ayush-7355/DSA_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Ayush-7355/DSA_Daily/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Ayush-7355/DSA_Daily/tree/master/0901-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-7355/DSA_Daily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0147-insertion-sort-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ayush-7355/DSA_Daily/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
