@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Ayush-7355/DSA_Daily/tree/master/0782-jewels-and-stones) |
 | [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayush-7355/DSA_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0206-reverse-linked-list) |
 ## Data Stream
