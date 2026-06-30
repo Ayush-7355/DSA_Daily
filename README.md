@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0876-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayush-7355/DSA_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-7355/DSA_Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/2481-strictly-palindromic-number) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0876-middle-of-the-linked-list) |
 ## Data Stream
 |  |
 | ------- |
