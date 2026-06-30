@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush-7355/DSA_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0206-reverse-linked-list) |
@@ -360,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush-7355/DSA_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
