@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ayush-7355/DSA_Daily/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-7355/DSA_Daily/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ayush-7355/DSA_Daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0120-triangle) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-7355/DSA_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
