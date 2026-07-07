@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Ayush-7355/DSA_Daily/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayush-7355/DSA_Daily/tree/master/0983-minimum-cost-for-tickets) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-7355/DSA_Daily/tree/master/1505-create-target-array-in-the-given-order) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Ayush-7355/DSA_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/Ayush-7355/DSA_Daily/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayush-7355/DSA_Daily/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-7355/DSA_Daily/tree/master/1143-longest-common-subsequence) |
