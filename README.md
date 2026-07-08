@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ayush-7355/DSA_Daily/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/Ayush-7355/DSA_Daily/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
+| [0720-longest-word-in-dictionary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/Ayush-7355/DSA_Daily/tree/master/0782-jewels-and-stones) |
 | [0959-regions-cut-by-slashes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0959-regions-cut-by-slashes) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/1635-number-of-good-pairs) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
+| [0720-longest-word-in-dictionary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/Ayush-7355/DSA_Daily/tree/master/0782-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-7355/DSA_Daily/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ayush-7355/DSA_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Ayush-7355/DSA_Daily/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Ayush-7355/DSA_Daily/tree/master/0217-contains-duplicate) |
+| [0720-longest-word-in-dictionary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0720-longest-word-in-dictionary) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ayush-7355/DSA_Daily/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ayush-7355/DSA_Daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Ayush-7355/DSA_Daily/tree/master/2502-sort-the-people) |
@@ -382,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayush-7355/DSA_Daily/tree/master/2185-counting-words-with-a-given-prefix) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
