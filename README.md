@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-7355/DSA_Daily/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ayush-7355/DSA_Daily/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Ayush-7355/DSA_Daily/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Ayush-7355/DSA_Daily/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Ayush-7355/DSA_Daily/tree/master/0136-single-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-7355/DSA_Daily/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
@@ -389,5 +391,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-7355/DSA_Daily/tree/master/0014-longest-common-prefix) |
 | [0720-longest-word-in-dictionary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
