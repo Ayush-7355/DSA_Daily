@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush-7355/DSA_Daily/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ayush-7355/DSA_Daily/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Ayush-7355/DSA_Daily/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Ayush-7355/DSA_Daily/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ayush-7355/DSA_Daily/tree/master/0696-count-binary-substrings) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayush-7355/DSA_Daily/tree/master/0020-valid-parentheses) |
 | [0654-maximum-binary-tree](https://github.com/Ayush-7355/DSA_Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Ayush-7355/DSA_Daily/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Ayush-7355/DSA_Daily/tree/master/0901-online-stock-span) |
@@ -399,5 +401,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayush-7355/DSA_Daily/tree/master/0020-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-7355/DSA_Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
